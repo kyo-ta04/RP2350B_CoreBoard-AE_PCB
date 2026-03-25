@@ -20,3 +20,5 @@ RP2350B CoreBoard の ピン配置を AE-RP2040 互換にする変換基板
 ![img3](./img/img3.png)
 
 ![img4](./img/img4.png)
+
+![img5](./img/img5.jpg)
